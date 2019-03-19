@@ -9,7 +9,7 @@ package cn.bluemobi.constant;
  */
 public class BlueMobiConstant {
     //王二麻子到此一游
-
+    //李四来了
     /**
      * 网站访问的域名配置
      */
